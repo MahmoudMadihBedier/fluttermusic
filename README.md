@@ -6,8 +6,8 @@ A Flutter music streaming application that allows users to play audio files from
 
 Include some attractive screenshots of your app to give potential users a visual preview of your project's interface.
 
-<img src="demo.png">
-<img src="demo1.png">
+
+
 
 **Immerse yourself in your music with this beautiful and intuitive Flutter app!**
 
@@ -28,7 +28,7 @@ Include some attractive screenshots of your app to give potential users a visual
 
 **Get Started:**
 
-1. **Clone the repository:** `git clone https://github.com/Hamad-Anwar/Flutter-Music-Player-App-With-BLoc.git`
+1. **Clone the repository:** `git clone https://github.com/MahmoudMadihBedier/fluttermusic.git`
 2. **Install dependencies:** `flutter pub get`
 3. **Connect your device or start an emulator.**
 4. **Run the app:** `flutter run`
@@ -52,17 +52,23 @@ This project uses the following dependencies:
 * layout_pro: Advanced layout capabilities for complex UI structures.
 * shimmer_effect: Create shimmering loading animations for a polished look.
   
-**Contribute & Connect:**
+## Getting Started
 
-* **Report bugs or share ideas:** Submit pull requests or open issues.
-* **Join the community:** Get updates and engage with other developers.
+To get started with Chattapp, follow these steps:
 
-**Spread the Music:**
+1. **Clone the repository:**
 
-* **Star the project on GitHub if you like it!**
-* **Share with your friends and music lovers.**
+```bash
+git clone https://github.com/MahmoudMadihBedier/chattapp.git
+cd chattapp
 
-**Let the music flow!**
+```
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mahmoud-madih-762358301/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Madih-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/m__madih?igsh=a2c0Nmk5cnQ3cHo1"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-m__madih-blue?style=flat-square&logo=instagram"></a>
+<a href="moodbeder150@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moodbeder150@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 
